@@ -1,0 +1,20 @@
+#root{
+    min-width: 275; 
+    max-width: "25vw";
+    margin-top: "10px";
+    margin-left: "20px";
+}
+
+#title{
+    font-size:"160px"  !important; 
+    font-weight:'bold'; 
+}
+
+#salary{
+    font-size: 16; 
+    color: '#cc0000'; 
+  }
+
+#pos{
+    margin-bottom: 5;
+}

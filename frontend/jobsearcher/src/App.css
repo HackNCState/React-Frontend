@@ -1,0 +1,33 @@
+html {
+  background-color: #e7e4e4;
+}
+
+.App-header {
+  text-align: center;
+  min-height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+  font-size: calc(20px + 2vmin);
+  color: #c00000;
+}
+
+.title { 
+  text-align: center;
+}
+
+.jobInfo {
+  display: flex;
+  justify-content: center;
+  align-items: center; /*doesnt work*/
+}
+
+.jobCards {
+  display: inline-flex;
+  flex-wrap: wrap;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  width: 80vw;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+}
