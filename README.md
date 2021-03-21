@@ -1,5 +1,10 @@
 # Getting Started with React 
 
+## Links
+To rewatch our PackHacks 2021 React Workshop: [Twitch Stream (skip to 1 hr 16 m)](https://www.twitch.tv/videos/957065632?t=01h16m00s)
+
+Workshop Presentation Slides: [Google Slides](https://docs.google.com/presentation/d/192GeA_gV0BlIbZlPCwEjc0pqcAlFuyveqU7VupTcvn8/edit?usp=sharing)
+
 ## What is React
 React.js is a flexible JavaScript library for building user interfaces. It lets you create complex UIs from small pieces of code called components. React allows developers to create large web applications that can change data, without reloading the page.
 
